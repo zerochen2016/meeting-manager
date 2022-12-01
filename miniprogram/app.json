@@ -1,6 +1,8 @@
 {
   "pages": [
+    "pages/chat/chat",
     "pages/home/home",
+    
     "pages/index/index",
     "pages/getOpenId/index",
     "pages/getMiniProgramCode/index",
